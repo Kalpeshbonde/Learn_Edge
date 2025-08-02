@@ -69,7 +69,7 @@ const Home = () => {
                         heading={
                             <div className='text-4xl font-semibold'>
                                 Unlock your
-                                <HighLightText text={" coding potential "} />
+                                <HighLightText text={" Coding Potential "} />
                                 with our online courses.
                             </div>
                         }
